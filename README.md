@@ -38,6 +38,14 @@ Finding a file based on given requirements:
 1. 1033 bytes in size
 1. not executable
 
+### Level 6
+
+Finding a password file stored _somewhere on the server_ and has the following properties:
+
+1. Owned by user `bandit7`
+1. Owned by group `bandit6`
+1. 33 bytes in size
+
 # References
 
 1. [Searching Through Man Page](https://askubuntu.com/a/20753)
