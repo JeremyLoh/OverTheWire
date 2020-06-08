@@ -23,3 +23,7 @@ Reading contents of file with spaces in the filename
 ### Level 3
 
 Viewing hidden files with `ls -a`
+
+### Level 4
+
+Looping over a list of files, check for human readable file using `file` command
