@@ -42,6 +42,7 @@ n can contain suffixes:
 ## Check for files that are not executable
 
 `-executable`: Check for files and directories which are searchable and that are executable
+
 `\! -executable`: Check for files and directories that are not executable
 
 ## Final Command
