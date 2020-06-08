@@ -19,3 +19,7 @@ Reading contents of file with a dash name `-`
 ### Level 2
 
 Reading contents of file with spaces in the filename
+
+### Level 3
+
+Viewing hidden files with `ls -a`
