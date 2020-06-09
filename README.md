@@ -52,10 +52,21 @@ Finding a password stored in the file `data.txt` next to the word `millionth`
 
 ### Level 8
 
-Finding a line of text (password) in `data.txt` that only occurs once.
+Finding a line of text (password) in `data.txt` that only occurs once
+
+### Level 9
+
+Finding a password in `data.txt` that is one of the few human-readable strings, preceded by several `=` characters
+
+# Markdown
+
+1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
+1. [Markdown Reference](https://guides.github.com/features/mastering-markdown/)
 
 # References
 
+1. [GNU binutils: Collection of binary tools](https://www.gnu.org/software/binutils/)
+   1. Install via `sudo apt install binutils`
 1. [Searching Through Man Page](https://askubuntu.com/a/20753)
 1. [What does `~/` mean?](https://askubuntu.com/a/85150)
 1. [Shell Scripting: Loops](https://www.shellscript.sh/loops.html)
