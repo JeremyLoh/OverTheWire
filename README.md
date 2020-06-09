@@ -2,9 +2,7 @@
 
 My notes for games available on https://overthewire.org/wargames/
 
-```
 The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
-```
 
 ## Bandit Wargame
 
@@ -52,8 +50,13 @@ Finding a password file stored _somewhere on the server_ and has the following p
 
 Finding a password stored in the file `data.txt` next to the word `millionth`
 
+### Level 8
+
+Finding a line of text (password) in `data.txt` that only occurs once.
+
 # References
 
 1. [Searching Through Man Page](https://askubuntu.com/a/20753)
 1. [What does `~/` mean?](https://askubuntu.com/a/85150)
 1. [Shell Scripting: Loops](https://www.shellscript.sh/loops.html)
+1. [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
