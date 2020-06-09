@@ -58,6 +58,10 @@ Finding a line of text (password) in `data.txt` that only occurs once
 
 Finding a password in `data.txt` that is one of the few human-readable strings, preceded by several `=` characters
 
+### Level 10
+
+Finding a password in `data.txt`that contains base64 encoded data
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -65,9 +69,11 @@ Finding a password in `data.txt` that is one of the few human-readable strings, 
 
 # References
 
+1. [Linux Man Pages](https://linux.die.net/man/)
 1. [GNU binutils: Collection of binary tools](https://www.gnu.org/software/binutils/)
    1. Install via `sudo apt install binutils`
 1. [Searching Through Man Page](https://askubuntu.com/a/20753)
 1. [What does `~/` mean?](https://askubuntu.com/a/85150)
 1. [Shell Scripting: Loops](https://www.shellscript.sh/loops.html)
 1. [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
+1. [Base64 (MDN Web Docs Glossary)](https://developer.mozilla.org/en-US/docs/Glossary/Base64)
