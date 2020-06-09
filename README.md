@@ -2,7 +2,9 @@
 
 My notes for games available on https://overthewire.org/wargames/
 
-`The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.`
+```
+The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+```
 
 ## Bandit Wargame
 
@@ -45,6 +47,10 @@ Finding a password file stored _somewhere on the server_ and has the following p
 1. Owned by user `bandit7`
 1. Owned by group `bandit6`
 1. 33 bytes in size
+
+### Level 7
+
+Finding a password stored in the file `data.txt` next to the word `millionth`
 
 # References
 
