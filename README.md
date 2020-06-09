@@ -62,6 +62,10 @@ Finding a password in `data.txt` that is one of the few human-readable strings, 
 
 Finding a password in `data.txt`that contains base64 encoded data
 
+### Level 11
+
+Finding a password in `data.txt`, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions (ROT13 algorithm)
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -77,3 +81,4 @@ Finding a password in `data.txt`that contains base64 encoded data
 1. [Shell Scripting: Loops](https://www.shellscript.sh/loops.html)
 1. [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
 1. [Base64 (MDN Web Docs Glossary)](https://developer.mozilla.org/en-US/docs/Glossary/Base64)
+1. [How does tr '[a-z]' '[n-za-m]' work?](https://unix.stackexchange.com/a/19774)
