@@ -8,7 +8,7 @@ Semicolon needs to be present if running shell command as consecutive commands o
 
 e.g.
 
-```Shell
+```shell
 # Do something (echo) with all files
 
 for i in *;
@@ -25,7 +25,7 @@ http://www.metagenomics.wiki/tools/ubuntu-linux/shell-loop
    1. Loop over all files in directory
    1. Use `file` command to determine file type
 
-```
+```shell
 for i in *;
 do
     file ./$i;
@@ -34,7 +34,7 @@ done;
 
 _Output_
 
-```
+```console
 ./-file00: data
 ./-file01: data
 ./-file02: data
@@ -49,7 +49,7 @@ _Output_
 
 _Open file with ASCII text_
 
-```
+```shell
 cat ./-file07
 ```
 

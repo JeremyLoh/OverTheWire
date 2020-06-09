@@ -6,7 +6,7 @@ The password for the next level is stored in the file `data.txt` in one of the f
 
 By default, linux uses GNU grep
 
-```shell
+```console
 bandit9@bandit:~$ grep -V
 grep (GNU grep) 2.27
 ```
@@ -27,7 +27,7 @@ For each file given, GNU strings prints the printable character sequences that a
 
 # Command
 
-```shell
+```console
 bandit9@bandit:~$ strings data.txt | grep -P "=+ "
 ========== the*2i"4
 ========== password
