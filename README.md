@@ -66,6 +66,10 @@ Finding a password in `data.txt`that contains base64 encoded data
 
 Finding a password in `data.txt`, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions (ROT13 algorithm)
 
+### Level 12
+
+Finding a password stored in the file `data.txt`, which is a hexdump of a file that has been repeatedly compressed. (Used commands: `mkdir`, `cp`, `mv`, `file`, `xxd` `bzip2`, `gzip`, `tar`)
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
