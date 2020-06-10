@@ -25,8 +25,14 @@ Could not create directory '/home/bandit13/.ssh'.
 The authenticity of host 'localhost (127.0.0.1)' can't be established.
 ECDSA key fingerprint is SHA256:98UL0ZWr85496EtCRkKlo20X3OPnyPSB5tB5RPbhczc.
 Are you sure you want to continue connecting (yes/no)? yes
+
+
+bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 ```
 
 # PASSWORD
 
-N.A, Used `ssh -i sshkey.private bandit14@localhost` on bandit13@bandit.labs.overthewire.org
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+
+Used `ssh -i sshkey.private bandit14@localhost` on bandit13@bandit.labs.overthewire.org
