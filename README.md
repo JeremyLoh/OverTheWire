@@ -78,6 +78,12 @@ The password for the next level is stored in `/etc/bandit_pass/bandit14` and can
 
 The password for the next level can be retrieved by submitting the password of the current level to port 30000 on `localhost`.
 
+### Level 15
+
+The password for the next level can be retrieved by submitting the password of the current level to port 30001 on localhost using SSL encryption.
+
+Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof and read the “CONNECTED COMMANDS” section in the manpage. Next to ‘R’ and ‘Q’, the ‘B’ command also works in this version of that command…
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -94,3 +100,5 @@ The password for the next level can be retrieved by submitting the password of t
 1. [Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
 1. [Base64 (MDN Web Docs Glossary)](https://developer.mozilla.org/en-US/docs/Glossary/Base64)
 1. [How does tr '[a-z]' '[n-za-m]' work?](https://unix.stackexchange.com/a/19774)
+1. [What is SSL?](https://www.ssl.com/faqs/faq-what-is-ssl/)
+1. [s_client](https://linux.die.net/man/1/s_client)
