@@ -84,6 +84,12 @@ The password for the next level can be retrieved by submitting the password of t
 
 Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof and read the “CONNECTED COMMANDS” section in the manpage. Next to ‘R’ and ‘Q’, the ‘B’ command also works in this version of that command…
 
+### Level 16
+
+The credentials for the next level can be retrieved by submitting the password of the current level to a port on `localhost` in the range 31000 to 32000.
+
+First find out which of these ports have a server listening on them. Then find out which of those speak SSL and which don’t. There is only 1 server that will give the next credentials, the others will simply send back to you whatever you send to it.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -102,3 +108,5 @@ Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof an
 1. [How does tr '[a-z]' '[n-za-m]' work?](https://unix.stackexchange.com/a/19774)
 1. [What is SSL?](https://www.ssl.com/faqs/faq-what-is-ssl/)
 1. [s_client](https://linux.die.net/man/1/s_client)
+1. [Running Nmap on WSL](https://exploits.run/nmap-wsl/)
+1. [Nmap Cheat Sheet](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/)
