@@ -90,6 +90,12 @@ The credentials for the next level can be retrieved by submitting the password o
 
 First find out which of these ports have a server listening on them. Then find out which of those speak SSL and which don’t. There is only 1 server that will give the next credentials, the others will simply send back to you whatever you send to it.
 
+### Level 17
+
+There are 2 files in the homedirectory: `passwords.old` and `passwords.new`. The password for the next level is in `passwords.new` and is the only line that has been changed between `passwords.old` and `passwords.new`
+
+`NOTE`: if you have solved this level and see ‘Byebye!’ when trying to log into `bandit18`, this is related to the next level, `bandit19`
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -110,3 +116,4 @@ First find out which of these ports have a server listening on them. Then find o
 1. [s_client](https://linux.die.net/man/1/s_client)
 1. [Running Nmap on WSL](https://exploits.run/nmap-wsl/)
 1. [Nmap Cheat Sheet](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/)
+1. [Linux diff command](https://www.computerhope.com/unix/udiff.htm)
