@@ -96,6 +96,10 @@ There are 2 files in the homedirectory: `passwords.old` and `passwords.new`. The
 
 `NOTE`: if you have solved this level and see ‘Byebye!’ when trying to log into `bandit18`, this is related to the next level, `bandit19`
 
+### Level 18
+
+The password for the next level is stored in a file `readme` in the home directory. Unfortunately, someone has modified .bashrc to log you out when you log in with SSH.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
