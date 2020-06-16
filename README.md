@@ -100,6 +100,10 @@ There are 2 files in the homedirectory: `passwords.old` and `passwords.new`. The
 
 The password for the next level is stored in a file `readme` in the home directory. Unfortunately, someone has modified .bashrc to log you out when you log in with SSH.
 
+### Level 19
+
+To gain access to the next level, you should use the `setuid` binary in the home directory. Execute it without arguments to find out how to use it. The password for this level can be found in the usual place (`/etc/bandit_pass`), after you have used the setuid binary.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -121,3 +125,4 @@ The password for the next level is stored in a file `readme` in the home directo
 1. [Running Nmap on WSL](https://exploits.run/nmap-wsl/)
 1. [Nmap Cheat Sheet](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/)
 1. [Linux diff command](https://www.computerhope.com/unix/udiff.htm)
+1. [Setuid](https://www.computerhope.com/jargon/s/setuid.htm)
