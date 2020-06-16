@@ -108,6 +108,10 @@ To gain access to the next level, you should use the `setuid` binary in the home
 
 There is a `setuid` binary in the home directory that does the following: it makes a connection to `localhost` on the port you specify as a commandline argument. It then reads a line of text from the connection and compares it to the password in the previous level (`bandit20`). If the password is correct, it will transmit the password for the next level (`bandit21`).
 
+### Level 21
+
+A program is running automatically at regular intervals from `cron`, the time-based job scheduler. Look in `/etc/cron.d/` for the configuration and see what command is being executed.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -130,3 +134,5 @@ There is a `setuid` binary in the home directory that does the following: it mak
 1. [Nmap Cheat Sheet](https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/)
 1. [Linux diff command](https://www.computerhope.com/unix/udiff.htm)
 1. [Setuid](https://www.computerhope.com/jargon/s/setuid.htm)
+1. [/dev/null](https://www.journaldev.com/35489/dev-null-in-linux)
+1. [Advanced Bash Scripting Guide: Chapter 20. I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html)
