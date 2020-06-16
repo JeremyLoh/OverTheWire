@@ -112,6 +112,12 @@ There is a `setuid` binary in the home directory that does the following: it mak
 
 A program is running automatically at regular intervals from `cron`, the time-based job scheduler. Look in `/etc/cron.d/` for the configuration and see what command is being executed.
 
+### Level 22
+
+A program is running automatically at regular intervals from `cron`, the time-based job scheduler. Look in `/etc/cron.d/` for the configuration and see what command is being executed.
+
+NOTE: Looking at shell scripts written by other people is a very useful skill. The script for this level is intentionally made easy to read. If you are having problems understanding what it does, try executing it to see the debug information it prints.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -136,3 +142,6 @@ A program is running automatically at regular intervals from `cron`, the time-ba
 1. [Setuid](https://www.computerhope.com/jargon/s/setuid.htm)
 1. [/dev/null](https://www.journaldev.com/35489/dev-null-in-linux)
 1. [Advanced Bash Scripting Guide: Chapter 20. I/O Redirection](http://www.tldp.org/LDP/abs/html/io-redirection.html)
+1. [Linux cut command](https://www.computerhope.com/unix/ucut.htm)
+1. [Bash Assign Output of Shell Command to Variable](https://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-bash-assign-variable-command-output/)
+1. [Bash scripting cheatsheet](https://devhints.io/bash)
