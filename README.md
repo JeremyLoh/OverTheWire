@@ -130,6 +130,10 @@ NOTE 2: Keep in mind that your shell script is removed once executed, so you may
 
 A daemon is listening on port `30002` and will give you the password for `bandit25` if given the password for `bandit24` and a secret numeric 4-digit pincode. There is no way to retrieve the pincode except by going through all of the 10000 combinations, called brute-forcing.
 
+### Level 25
+
+Logging in to `bandit26` from `bandit25` should be fairly easy… The shell for user `bandit26` is not `/bin/bash`, but something else. Find out what it is, how it works and how to break out of it.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -158,3 +162,6 @@ A daemon is listening on port `30002` and will give you the password for `bandit
 1. [Bash Assign Output of Shell Command to Variable](https://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-bash-assign-variable-command-output/)
 1. [Bash scripting cheatsheet](https://devhints.io/bash)
 1. [How to create a sequence with leading zeroes using brace expansion](https://unix.stackexchange.com/a/60259)
+1. [Understanding the /etc/passwd file format](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
+1. [`more`(1) - Linux man page](https://linux.die.net/man/1/more)
+1. [How to run Unix commands from within Vim?](https://superuser.com/a/285506)
