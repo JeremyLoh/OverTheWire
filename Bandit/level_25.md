@@ -122,6 +122,7 @@ v
 # Getting out of the default shell for `bandit26`
 
 `:set shell=/bin/bash`
+
 `:shell`
 
 # PASSWORD
