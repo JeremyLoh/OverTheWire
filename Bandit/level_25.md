@@ -115,7 +115,7 @@ bandit26.sshkey
 bandit25@bandit:~$ ssh bandit26@localhost -i bandit26.sshkey
 
 v
-:e cat /etc/bandit_pass/bandit26
+:e /etc/bandit_pass/bandit26
 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
 ```
 
