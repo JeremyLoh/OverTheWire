@@ -126,6 +126,10 @@ NOTE: This level requires you to create your own first shell-script. This is a v
 
 NOTE 2: Keep in mind that your shell script is removed once executed, so you may want to keep a copy around…
 
+### Level 24
+
+A daemon is listening on port `30002` and will give you the password for `bandit25` if given the password for `bandit24` and a secret numeric 4-digit pincode. There is no way to retrieve the pincode except by going through all of the 10000 combinations, called brute-forcing.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -153,3 +157,4 @@ NOTE 2: Keep in mind that your shell script is removed once executed, so you may
 1. [Linux cut command](https://www.computerhope.com/unix/ucut.htm)
 1. [Bash Assign Output of Shell Command to Variable](https://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-bash-assign-variable-command-output/)
 1. [Bash scripting cheatsheet](https://devhints.io/bash)
+1. [How to create a sequence with leading zeroes using brace expansion](https://unix.stackexchange.com/a/60259)
