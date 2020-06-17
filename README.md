@@ -165,3 +165,4 @@ Logging in to `bandit26` from `bandit25` should be fairly easy… The shell for 
 1. [Understanding the /etc/passwd file format](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
 1. [`more`(1) - Linux man page](https://linux.die.net/man/1/more)
 1. [How to run Unix commands from within Vim?](https://superuser.com/a/285506)
+1. [Vim Commands Cheat Sheet](https://www.fprintf.net/vimCheatSheet.html)
