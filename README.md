@@ -140,6 +140,12 @@ The shell for user `bandit26` is not `/bin/bash`, but something else. Find out w
 
 Good job getting a shell! Now hurry and grab the password for bandit27!
 
+### Level 27
+
+There is a git repository at `ssh://bandit27-git@localhost/home/bandit27-git/repo`. The password for the user `bandit27-git` is the same as for the user `bandit27`.
+
+Clone the repository and find the password for the next level.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
