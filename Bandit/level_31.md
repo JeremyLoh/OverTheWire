@@ -8,6 +8,21 @@ Clone the repository and find the password for the next level.
 
 Git sees every file in your working copy as one of three things:
 
+1. `tracked` - a file which has been previously staged or committed
+1. `untracked` - a file which has not been staged or committed
+1. `ignored` - a file which Git has been explicitly told to ignore
+
+Ignored files are usually build artifacts and machine generated files that can be derived from your repository source or should otherwise not be committed. Some common examples are:
+
+1. dependency caches, such as the contents of `/node_modules` or `/packages`
+1. compiled code, e.g. `.o`, `.class`, `.pyc` files
+1. build output directories, e.g. `/bin`, `/out`, `/target`
+1. files generated at runtime, e.g. `.log`, `.lock`, `.tmp`
+1. hidden system files, e.g. `.DS_Store`, `Thumbs.db`
+1. personal IDE config files, e.g. `.idea/workspace.xml`
+
+Ignored files are tracked in a special file named `.gitignore` that is checked in at the root of your repository. There is no explicit git ignore command: instead the `.gitignore` file must be edited and committed by hand when you have new files that you wish to ignore. `.gitignore` files contain patterns that are matched against file names in your repository to determine whether or not they should be ignored.
+
 ```console
 bandit31@bandit:~$ mkdir /tmp/cloned31
 bandit31@bandit:~$ cd /tmp/cloned31
