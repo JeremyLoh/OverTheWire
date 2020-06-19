@@ -134,6 +134,12 @@ A daemon is listening on port `30002` and will give you the password for `bandit
 
 Logging in to `bandit26` from `bandit25` should be fairly easy… The shell for user `bandit26` is not `/bin/bash`, but something else. Find out what it is, how it works and how to break out of it.
 
+### Level 26
+
+The shell for user `bandit26` is not `/bin/bash`, but something else. Find out what it is, how it works and how to break out of it.
+
+Good job getting a shell! Now hurry and grab the password for bandit27!
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
