@@ -23,6 +23,8 @@ Ignored files are usually build artifacts and machine generated files that can b
 
 Ignored files are tracked in a special file named `.gitignore` that is checked in at the root of your repository. There is no explicit git ignore command: instead the `.gitignore` file must be edited and committed by hand when you have new files that you wish to ignore. `.gitignore` files contain patterns that are matched against file names in your repository to determine whether or not they should be ignored.
 
+# Command to execute
+
 ```console
 bandit31@bandit:~$ mkdir /tmp/cloned31
 bandit31@bandit:~$ cd /tmp/cloned31
