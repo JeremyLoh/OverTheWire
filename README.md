@@ -152,6 +152,12 @@ There is a git repository at `ssh://bandit28-git@localhost/home/bandit28-git/rep
 
 Clone the repository and find the password for the next level.
 
+### Level 29
+
+There is a git repository at `ssh://bandit29-git@localhost/home/bandit29-git/repo`. The password for the user `bandit29-git` is the same as for the user `bandit29`.
+
+Clone the repository and find the password for the next level.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -184,3 +190,4 @@ Clone the repository and find the password for the next level.
 1. [`more`(1) - Linux man page](https://linux.die.net/man/1/more)
 1. [How to run Unix commands from within Vim?](https://superuser.com/a/285506)
 1. [Vim Commands Cheat Sheet](https://www.fprintf.net/vimCheatSheet.html)
+1. [What are the differences between local branch, local tracking branch, remote branch and remote tracking branch?](https://stackoverflow.com/a/16408515)
