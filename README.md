@@ -164,6 +164,12 @@ There is a git repository at `ssh://bandit30-git@localhost/home/bandit30-git/rep
 
 Clone the repository and find the password for the next level.
 
+### Level 31
+
+There is a git repository at `ssh://bandit31-git@localhost/home/bandit31-git/repo`. The password for the user `bandit31-git` is the same as for the user `bandit31`.
+
+Clone the repository and find the password for the next level.
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
@@ -199,3 +205,4 @@ Clone the repository and find the password for the next level.
 1. [What are the differences between local branch, local tracking branch, remote branch and remote tracking branch?](https://stackoverflow.com/a/16408515)
 1. [Git tag](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag)
 1. [Git Show](https://www.atlassian.com/git/tutorials/git-show)
+1. [.gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
