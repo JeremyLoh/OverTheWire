@@ -4,6 +4,36 @@ My notes for games available on https://overthewire.org/wargames/
 
 The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 
+## Leviathan Wargame
+
+Leviathan is a wargame that has been rescued from the demise of `intruded.net`, previously hosted on `leviathan.intruded.net`. Big thanks to `adc`, `morla` and `reth` for their help in resurrecting this game!
+
+What follows below is the original description of leviathan, copied from intruded.net:
+
+```
+Summary:
+Difficulty:     1/10
+Levels:         8
+Platform:   Linux/x86
+
+Author:
+Anders Tonfeldt
+
+Special Thanks:
+We would like to thank AstroMonk for coming up with a replacement idea for the last level,
+deadfood for finding a leveljump and Coi for finding a non-planned vulnerability.
+
+Description:
+This wargame doesn't require any knowledge about programming - just a bit of common
+sense and some knowledge about basic *nix commands. We had no idea that it'd be this
+hard to make an interesting wargame that wouldn't require programming abilities from
+the players. Hopefully we made an interesting challenge for the new ones.
+```
+
+### Level 0
+
+`hidden`: There is no information for this level, intentionally.
+
 ## Bandit Wargame
 
 ### Level 0
