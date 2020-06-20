@@ -216,3 +216,4 @@ sh: 1: LS: not found
 1. [Git tag](https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag)
 1. [Git Show](https://www.atlassian.com/git/tutorials/git-show)
 1. [.gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
+1. [sh(1) - Linux man page](https://linux.die.net/man/1/sh)
