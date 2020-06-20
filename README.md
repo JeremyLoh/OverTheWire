@@ -170,6 +170,16 @@ There is a git repository at `ssh://bandit31-git@localhost/home/bandit31-git/rep
 
 Clone the repository and find the password for the next level.
 
+### Level 32
+
+After all this git stuff its time for another escape. Good luck!
+
+```console
+WELCOME TO THE UPPERCASE SHELL
+>> ls
+sh: 1: LS: not found
+```
+
 # Markdown
 
 1. [Code highlight in Markdown](https://stackoverflow.com/a/52586193)
