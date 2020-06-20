@@ -188,8 +188,14 @@ strcmp("idk", "sex")                                                      = -1
 puts("Wrong password, Good Bye ..."Wrong password, Good Bye ...
 )                                      = 29
 +++ exited (status 0) +++
+leviathan1@leviathan:~$ ./check
+password: sex
+$ whoami
+leviathan2
+$ cat /etc/leviathan_pass/leviathan2
+ougahZi8Ta
 ```
 
 # PASSWORD
 
-`sex`
+ougahZi8Ta
