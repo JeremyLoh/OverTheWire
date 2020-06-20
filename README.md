@@ -30,7 +30,7 @@ hard to make an interesting wargame that wouldn't require programming abilities 
 the players. Hopefully we made an interesting challenge for the new ones.
 ```
 
-### Level 0
+### Level 0, Level 1
 
 `hidden`: There is no information for this level, intentionally.
 
@@ -247,3 +247,4 @@ sh: 1: LS: not found
 1. [Git Show](https://www.atlassian.com/git/tutorials/git-show)
 1. [.gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 1. [sh(1) - Linux man page](https://linux.die.net/man/1/sh)
+1. [Spying on Running Programs (strace. ltrace, system calls vs library calls)](https://www.youtube.com/watch?v=2AmP7Pse4U0)
