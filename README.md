@@ -14,7 +14,11 @@ Each level has access to the password of the next level. Your job is to somehow 
 
 ### Level 0
 
-A page displaying that "You can find the password for the next level on this page."
+A page displaying that `You can find the password for the next level on this page.`
+
+### Level 1
+
+A webpage that displays the message `You can find the password for the next level on this page, but rightclicking has been blocked!`
 
 ## Leviathan Wargame
 
