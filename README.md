@@ -24,6 +24,14 @@ A webpage that displays the message `You can find the password for the next leve
 
 A webpage that displays the message: `There is nothing on this page`.
 
+### Level 4
+
+A webpage with the following message:
+
+```
+Access disallowed. You are visiting from "" while authorized users should come only from "http://natas5.natas.labs.overthewire.org/"
+```
+
 ## Leviathan Wargame
 
 Leviathan is a wargame that has been rescued from the demise of `intruded.net`, previously hosted on `leviathan.intruded.net`. Big thanks to `adc`, `morla` and `reth` for their help in resurrecting this game!

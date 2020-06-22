@@ -17,3 +17,4 @@ URL: http://natas0.natas.labs.overthewire.org
 1. [World Wide Web](https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web)
 1. [What is an Internet search engine?](https://developer.mozilla.org/en-US/docs/Glossary/Search_engine)
 1. [Introduction to `robots.txt`](https://support.google.com/webmasters/answer/6062608?hl=en)
+1. [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
