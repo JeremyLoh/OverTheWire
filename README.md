@@ -20,7 +20,7 @@ A page displaying that `You can find the password for the next level on this pag
 
 A webpage that displays the message `You can find the password for the next level on this page, but right clicking has been blocked!`
 
-### Level 2
+### Level 2, Level 3
 
 A webpage that displays the message: `There is nothing on this page`.
 
