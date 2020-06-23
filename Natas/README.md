@@ -18,3 +18,5 @@ URL: http://natas0.natas.labs.overthewire.org
 1. [What is an Internet search engine?](https://developer.mozilla.org/en-US/docs/Glossary/Search_engine)
 1. [Introduction to `robots.txt`](https://support.google.com/webmasters/answer/6062608?hl=en)
 1. [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+1. [Using HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+1. [Stateful information for the stateless HTTP protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview#HTTP_is_stateless_but_not_sessionless)
